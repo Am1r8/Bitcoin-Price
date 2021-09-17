@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+
+body {
+	min-width: 450px;
+	background-color: #f4f4f4ee;
+  color: #0e0e0e;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 28px;
+	letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  width: 76px;
+  margin: 0 auto;
+}
+
+.bitcoin {
+	font-family: 'Merriweather', serif;
+  font-size: 22px;
+}
+
+svg {
+	width: 20px;
+}
+
+.increased {
+	padding: 4px;
+	color: #4dbb79;
+}
+
+.decreased {
+	padding: 4px;
+	color: #f56565;
+}

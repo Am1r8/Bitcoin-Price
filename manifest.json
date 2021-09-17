@@ -1,0 +1,12 @@
+{
+    "name": "Bit Price",
+    "manifest_version": 2,
+    "version": "2.5",
+    "description": "Chrome Extension which tracks Bitcoin prices",
+    "browser_action": {
+      "default_name": "Bit Price",
+      "default_icon": "icon.png",
+      "default_popup": "index.html"
+    },
+    "permissions": []
+  }
